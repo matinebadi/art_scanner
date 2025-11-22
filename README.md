@@ -1,8 +1,3 @@
-حتماً. درخواستی که داشتید را متوجه شدم. یک فایل README حرفه‌ای به زبان **انگلیسی** و با فرمت **مارک‌دون** (Markdown) برای اپلیکیشن **Art Scanner** آماده کردم.
-
-این ریدمی بر روی معرفی و قابلیت‌های اپلیکیشن متمرکز است، نه کد آن.
-
-```markdown
 # ✨ Art Scanner: Your Pocket Art Analyst and Muse ✨
 
 ## 🎨 Discover the Undiscovered Layers of Art
@@ -36,4 +31,3 @@
 This application was developed by Matin Ebadi.
 
 [cite_start]**GitHub:** [matinebadi](https://github.com/matinebadi) [cite: 1335]
-```
